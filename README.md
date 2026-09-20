@@ -10,8 +10,8 @@ Solution to the [Results summary component challenge](https://www.frontendmentor
 ![mobile design](./screenshots/my-mobile-design.png);
 
 ### Links
-- Solution URL: [Add here]
-- Live Site URL: [Add here]
+- Solution URL: [https://www.frontendmentor.io/solutions/frontend-mentor---result-summary-componenet-RRs3CW071u]
+- Live Site URL: [https://saadarshad19se.github.io/Result-Summary-Component/]
 
 ## My process
 
